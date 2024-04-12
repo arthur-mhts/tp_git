@@ -1,9 +1,13 @@
+"""Simple calculator module providing basic arithmetic operations."""
 def addition(a,b):
-	return a+b
+    """Simple addition function"""
+    return a+b
 
 def soustraction(a,b):
-	return a-b
+    """Simple soustraction function"""
+    return a-b
 
 
 def division(a,b):
-	return a/b
+    """Simple division function"""
+    return a/b
